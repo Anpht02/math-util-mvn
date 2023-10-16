@@ -1,5 +1,9 @@
+[![Math Utility Repository applying CI](https://github.com/Anpht02/math-util-mvn/actions/workflows/math-util-ci.yml/badge.svg)](https://github.com/Anpht02/math-util-mvn/actions/workflows/math-util-ci.yml)
+
 ### Welcome to Math-Utilily Repository
+
 #### You will find in this repo the following stuff:
+
 * A Maven project to demonstrate the Math library
 * A Unit Test test script using JUnit Test framework
 * A CI (Cotinuous Integration) script running on GitHub Actions
